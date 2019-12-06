@@ -2,7 +2,6 @@
 layout: page
 excerpt: "About Me..."
 ---
-# About Me
 
 General:
 * Sicnece: Neuroscience, Math, Psychology, Physics 
