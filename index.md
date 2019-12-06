@@ -7,6 +7,6 @@ excerpt: "About Me..."
 
 ## Current Interests and Projects:
 
-- Gamma Oscilations in Inter-neuron Network
+- Mechanisms of Gamma Oscillations in Inter-neuron Network
 - Causal Inference in Motion Perception
 - Bayesian Inference on Visual Orientation Perception 
