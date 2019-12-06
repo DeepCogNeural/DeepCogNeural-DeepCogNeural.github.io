@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 ## About Me:
-Sicnece: Neuroscience, Math, Psychology, Physics
+Sicnece: Neuroscience, Math, Psychology, Physics \n
 Non-science: Basketball, Piano, Cooking, Skiing
 
 ## Current Interests and Projects:
