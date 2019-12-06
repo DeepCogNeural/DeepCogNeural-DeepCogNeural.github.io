@@ -1,10 +1,10 @@
 ---
 layout: page
-
+excerpt: "About Me..."
 ---
-Short introduce about me...
+Short introduce about me
 
-# General Interests:
+## General Interests:
 * Sicnece: Neuroscience, Math, Psychology, Physics 
 * Non-science: Basketball, Piano, Cooking, Skiing
 
