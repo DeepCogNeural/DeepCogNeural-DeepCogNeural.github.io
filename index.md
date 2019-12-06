@@ -1,8 +1,7 @@
 ---
 layout: page
-
+excerpt: "About Me..."
 ---
-# About Me:
 * Sicnece: Neuroscience, Math, Psychology, Physics 
 * Non-science: Basketball, Piano, Cooking, Skiing
 
