@@ -2,8 +2,9 @@
 layout: page
 
 ---
+Short introduce about me...
 
-# General:
+# General Interests:
 * Sicnece: Neuroscience, Math, Psychology, Physics 
 * Non-science: Basketball, Piano, Cooking, Skiing
 
